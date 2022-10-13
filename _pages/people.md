@@ -9,7 +9,7 @@ layout: post
 
 ## Professor
 ------------
-<div style="width:150px; height:350px; float:left;">
+<div style="width:150px; height:300px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swkim.png" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seung-Wook Kim (김승욱)</b></p>
@@ -19,6 +19,8 @@ layout: post
 <p style="line-height: 1;"><a href="https://www.pknu.ac.kr/main">Pukyong National University</a></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:swkim@pknu.ac.kr">swkim@pknu.ac.kr</a></p>
 <p style="line-height: 1.5;">홈페이지: <a href="https://gymlab.github.io/">https://gymlab.github.io/</a></p>
+
+&nbsp;
 
 &nbsp;
 
