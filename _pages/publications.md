@@ -1,6 +1,6 @@
 ---
 title: Publications
-author: Tao He
+author: Seung-Wook Kim
 date: 2022-10-11
 category: Jekyll
 layout: post
