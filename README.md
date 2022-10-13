@@ -4,7 +4,7 @@ title: Vision Lab
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+### Welcome to the Vision Lab.
 
 ## Demo
 
