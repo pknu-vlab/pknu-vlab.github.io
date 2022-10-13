@@ -22,8 +22,6 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
 ## Research Interns
 ------------
 
