@@ -41,9 +41,9 @@ layout: post
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
-<img src="" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/mjkim.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>김민지</b></p>
+<p style="line-height: 1.5;"><b>Min-Ji Kim (김민지)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:kminzy23@kakao.com">kminzy23@kakao.com</a></p>
 <p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
 
