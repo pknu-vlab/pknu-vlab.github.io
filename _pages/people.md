@@ -67,9 +67,9 @@ layout: post
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
-<img src="" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>성치훈</b></p>
+<p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
 <p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
 
