@@ -9,5 +9,6 @@ gem 'jekyll-readme-index'
 gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-sitemap'
+gem 'jekyll-feed'
 
 # gem "rails"
