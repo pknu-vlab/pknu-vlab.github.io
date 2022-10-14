@@ -54,9 +54,9 @@ layout: post
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
-<img src="" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sykim.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>김성열</b></p>
+<p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:qksksktjdduf@naver.com">qksksktjdduf@naver.com</a></p>
 <p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
 
