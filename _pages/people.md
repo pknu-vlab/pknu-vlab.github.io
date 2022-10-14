@@ -9,7 +9,7 @@ layout: post
 
 ## Professor
 ------------
-<div style="width:150px; height:300px; float:left;">
+<div style="width:150px; height:250px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swkim.png" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seung-Wook Kim (김승욱)</b></p>
