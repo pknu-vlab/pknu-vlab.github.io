@@ -27,7 +27,7 @@ layout: post
 ## Research Interns
 ------------
 
-<div style="width:150px; height:224px; float:left;">
+<div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/grkim.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Ga-Ryeong Kim (김가령)</b></p>
@@ -40,9 +40,7 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-<div style="width:150px; height:224px; float:left;">
+<div style="width:150px; height:200px; float:left;">
 <img src="" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>김민지</b></p>
@@ -55,9 +53,7 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-<div style="width:150px; height:224px; float:left;">
+<div style="width:150px; height:200px; float:left;">
 <img src="" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>김성열</b></p>
@@ -70,9 +66,7 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-<div style="width:150px; height:224px; float:left;">
+<div style="width:150px; height:200px; float:left;">
 <img src="" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>성치훈</b></p>
@@ -85,9 +79,7 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-<div style="width:150px; height:224px; float:left;">
+<div style="width:150px; height:200px; float:left;">
 <img src="" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>손승원</b></p>
