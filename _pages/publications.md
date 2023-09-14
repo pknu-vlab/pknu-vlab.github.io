@@ -103,6 +103,9 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 
 ## Domestic Papers
 -----------------
+1. <font size="3em"> 성치훈, 김성열, 손승원, 신호주, <b>김승욱</b>, "NAFNet을 활용한 RGBW/RGB Color Filter Array 리모자이크 및 디노이즈," 대한전자공학회 하계학술대회 논문집, 2023.</font>
+
+1. <font size="3em"> 김성열, 성치훈, 김가령, 김민지, 구나영, 김지아, <b>김승욱</b>, "RGBW/RGB Color Filter Array 데이터셋 생성을 통한 RGBW-to-RGB 변환 기법," 대한전자공학회 하계학술대회 논문집, 2023.</font>
 
 1. <font size="3em"> <b>김승욱</b>, 김준연, 선지영, 고성제, "보행자 검출기의 성능 향상을 위한 인지시각 시스템의 특성에 기반한 특징 추출 기법," 대한전자공학회 추계학술대회 논문집, 2016.</font>
 
