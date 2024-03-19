@@ -28,32 +28,6 @@ layout: post
 ------------
 
 <div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/grkim.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Ga-Ryeong Kim (김가령)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:dbswl6071@naver.com">dbswl6071@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/mjkim.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Min-Ji Kim (김민지)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:kminzy23@kakao.com">kminzy23@kakao.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sykim.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
@@ -119,8 +93,67 @@ layout: post
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sypark.jpeg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Seo-Yeon Park (박서연)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:lucy030402@naver.com">lucy030402@naver.com</a></p>
+<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/yjpark.jpeg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Ye-Jun Park (박예준)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:ecov1918@gmail.comr">ecov1918@gmail.com</a></p>
+<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/jhkim.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Jae-Ho Kim (김재호)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:kjh250018a@naver.com">kjh250018a@naver.com</a></p>
+<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
+
+## Alumni
+------------
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/grkim.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Ga-Ryeong Kim (김가령)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:dbswl6071@naver.com">dbswl6071@naver.com</a></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/mjkim.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Min-Ji Kim (김민지)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:kminzy23@kakao.com">kminzy23@kakao.com</a></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/jakim.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Ji-Ah Kim (김지아)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:whatime08@pukyong.ac.kr">whatime08@pukyong.ac.kr</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
