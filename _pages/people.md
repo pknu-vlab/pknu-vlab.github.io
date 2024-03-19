@@ -125,6 +125,10 @@ layout: post
 <p style="line-height: 1.5;">E-mail: <a href="mailto:kjh250018a@naver.com">kjh250018a@naver.com</a></p>
 <p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
 
+&nbsp;
+
+&nbsp;
+
 ## Alumni
 ------------
 
