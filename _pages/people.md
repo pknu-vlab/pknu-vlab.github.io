@@ -24,7 +24,7 @@ layout: post
 
 &nbsp;
 
-## Research Interns
+## Integrated M.S./B.S.
 ------------
 
 <div style="width:150px; height:200px; float:left;">
@@ -39,6 +39,9 @@ layout: post
 &nbsp;
 
 &nbsp;
+
+## Research Interns
+------------
 
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
