@@ -8,7 +8,9 @@ layout: post
 
 ## Journal Articles
 -----------------
-1. <font size="3em"> Hoon Lee and <b>Seung-Wook Kim*</b>, "Task-Oriented Edge Networks: Decentralized Learning Over Wireless Fronthaul," to appear in <i>IEEE IoT Journal</i>, 2024. (*Corresponding author)</font>
+1. <font size="3em"> Se-Ho Lee and <b>Seung-Wook Kim*</b>, "DCPNet: Deformable Control Point Network for Image Enhancement," to appear in <i>Journal of Visual Communication and Image Representation</i>, 2024. (*Corresponding author)</font>
+
+1. <font size="3em"> Hoon Lee and <b>Seung-Wook Kim*</b>, "Task-Oriented Edge Networks: Decentralized Learning Over Wireless Fronthaul," <i>IEEE IoT Journal</i>, 2024. (*Corresponding author)</font>
 
 1. <font size="3em"> Se-ho Lee and <b>Seung-Wook Kim*</b>, "Dual-Branch Vision Transformer for Blind Image Quality Assessment," <i>Journal of Visual Communication and Image Representation</i>, 2023. (*Corresponding author)</font>
 
