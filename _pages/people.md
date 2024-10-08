@@ -137,11 +137,15 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
+
+&nbsp;
 
 &nbsp;
 
@@ -161,15 +165,12 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/nygu.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Na-Young Gu (구나영)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:skdud11318@naver.com">skdud11318@naver.com</a></p>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
