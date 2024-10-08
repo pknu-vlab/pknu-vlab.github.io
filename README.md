@@ -20,7 +20,8 @@ permalink: /
 - Deep learning
 - Object detection & recognition
 - Image enhancement
-- Illmumination/color normalization
+- Federated learning
+- Deepfake defence
 
 ## Latest News
 
