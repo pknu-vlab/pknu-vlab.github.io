@@ -107,7 +107,7 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 
 ## Domestic Papers
 -----------------
-1. <font size="3em"> 김성열, 성치훈, <b>김승욱</b>, "적대적 생성 신경망을 이용한 컬러 필터 배열 변환 기법," 한국통신학회 논문지 게재 예정, 2024.</font>
+1. <font size="3em"> 김성열, 성치훈, <b>김승욱</b>, "적대적 생성 신경망을 이용한 컬러 필터 배열 변환 기법," 한국통신학회 논문지, 2024.</font>
 
 1. <font size="3em"> 성치훈, 김성열, 손승원, 신호주, <b>김승욱</b>, "NAFNet을 활용한 RGBW/RGB Color Filter Array 리모자이크 및 디노이즈," 대한전자공학회 하계학술대회 논문집, 2023.</font>
 
