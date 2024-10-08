@@ -23,3 +23,5 @@ permalink: /
 - Illmumination/color normalization
 
 ## Latest News
+
+- Our team won 2nd place in the 2024 Samsung AI Challenge: Black-box Optimization. Congratulations to Ho-Ju, Ji-Ah, and Seong-Yeol!
