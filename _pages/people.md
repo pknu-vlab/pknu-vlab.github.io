@@ -32,8 +32,22 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:qksksktjdduf@naver.com">qksksktjdduf@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
+<p style="line-height: 1.5;"><b>Research Interest: Deepfake defence</b></p>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/jakim.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Ji-Ah Kim (김지아)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:whatime08@pukyong.ac.kr">whatime08@pukyong.ac.kr</a></p>
+<p style="line-height: 1.5;"><b>Research Interest: Deepfake defence</b></p>
 &nbsp;
 
 &nbsp;
@@ -43,44 +57,6 @@ layout: post
 ## Research Interns
 ------------
 
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swson.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Seung-Won Son (손승원)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:w3218822@naver.com">w3218822@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/nygu.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Na-Young Gu (구나영)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:skdud11318@naver.com">skdud11318@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
@@ -161,10 +137,39 @@ layout: post
 
 &nbsp;
 
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/jakim.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swson.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Ji-Ah Kim (김지아)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:whatime08@pukyong.ac.kr">whatime08@pukyong.ac.kr</a></p>
+<p style="line-height: 1.5;"><b>Seung-Won Son (손승원)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:w3218822@naver.com">w3218822@naver.com</a></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/nygu.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Na-Young Gu (구나영)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:skdud11318@naver.com">skdud11318@naver.com</a></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
