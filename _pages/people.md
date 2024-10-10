@@ -18,7 +18,6 @@ layout: post
 <p style="line-height: 1;"><a href="https://itc.pknu.ac.kr/html/00_main/">College of IT & Convergence</a></p>
 <p style="line-height: 1;"><a href="https://www.pknu.ac.kr/main">Pukyong National University</a></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:swkim@pknu.ac.kr">swkim@pknu.ac.kr</a></p>
-<p style="line-height: 1.5;">홈페이지: <a href="https://gymlab.github.io/">https://gymlab.github.io/</a></p>
 
 &nbsp;
 
