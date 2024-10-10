@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications [(Google Scholar)](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)"
 author: Seung-Wook Kim
 date: 2022-10-11
 category: Jekyll
