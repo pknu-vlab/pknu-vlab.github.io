@@ -12,7 +12,7 @@ layout: post
 <div style="width:150px; height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swkim.png" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Seung-Wook Kim (김승욱) [<a href="https://github.com/gymlab/pknu-vlab.github.io/raw/master/files/cv_swkim.pdf">CV</a>] </b></p>
+<p style="line-height: 1.5;"><b>Seung-Wook Kim (김승욱) [<a href="https://github.com/pknu-vlab/pknu-vlab.github.io/blob/main/_pages/cv_swkim.pdf">CV</a>] </b></p>
 <p style="line-height: 0.5;">Assistant Professor</p>
 <p style="line-height: 1;"><a href="https://ee.pknu.ac.kr/ee/1">Division of Electronic & Communication Engineering</a></p>
 <p style="line-height: 1;"><a href="https://itc.pknu.ac.kr/html/00_main/">College of IT & Convergence</a></p>
