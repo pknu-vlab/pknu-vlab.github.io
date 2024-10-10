@@ -1,10 +1,12 @@
 ---
-title: Publications [(Google Scholar)](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)
+title: Publications
 author: Seung-Wook Kim
 date: 2022-10-11
-category: Jekyll
+category: Jekyllhttps://github.com/pknu-vlab/pknu-vlab.github.io/blob/main/_pages/publications.md
 layout: post
 ---
+
+## [Google Scholar](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)
 
 ## Journal Articles
 -----------------
