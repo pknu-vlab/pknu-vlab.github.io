@@ -26,3 +26,4 @@ permalink: /
 ## Latest News
 
 - Our team won 2nd place in the [2024 Samsung AI Challenge: Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description). Congratulations to **Ho-Ju, Ji-Ah, and Seong-Yeol**!
+- Our team won 3nd place in the [2024 ETRI Human Understanding AI Paper Challenge](https://aifactory.space/task/2790/overview). Congratulations to **Ho-Ju, Ji-Ah, and Seong-Yeol**!
