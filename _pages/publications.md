@@ -14,7 +14,7 @@ layout: post
 
 1. <font size="3em"> Se-Ho Lee and <b>Seung-Wook Kim*</b>, "DCPNet: Deformable Control Point Network for Image Enhancement," to appear in <i>Journal of Visual Communication and Image Representation</i>, 2024. (*Corresponding author)</font>
 
-1. <font size="3em"> Seong-Yeol Kim, Chi-Hun Sung, and \textbf{Seung-Wook Kim}*, ``Color Filter Array Mapping Using Generative Adversarial Networks,'' \textit{KICS Journal}, 2024. (*corresponding author)
+1. <font size="3em"> Seong-Yeol Kim, Chi-Hun Sung, and \textbf{Seung-Wook Kim}*, ``Color Filter Array Mapping Using Generative Adversarial Networks,'' <i>KICS Journal</i>, 2024. (*corresponding author)
 
 1. <font size="3em"> Hoon Lee and <b>Seung-Wook Kim*</b>, "Task-Oriented Edge Networks: Decentralized Learning Over Wireless Fronthaul," <i>IEEE IoT Journal</i>, 2024. (*Corresponding author)</font>
 
