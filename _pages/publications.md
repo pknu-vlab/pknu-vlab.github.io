@@ -28,9 +28,9 @@ layout: post
 
 1. <font size="3em"> Cheol-Hwan Yoo, Seo-Won Ji, Yong-Goo Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Fast and Accurate 3D Hand Pose Estimation via Recurrent Neural Network for Capturing Hand Articulations," <i>IEEE Access</i>, 2020.</font>
 
-1. <font size="3em"> Yoon-Jae Yeo, Yong-Goo Shin, Min-Cheol Sagong, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Simple yet effective way for improving the performance of lossy image compression," to appear in <i>IEEE Signal Processing Letters</i>.</font>
+1. <font size="3em"> Yoon-Jae Yeo, Yong-Goo Shin, Min-Cheol Sagong, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Simple yet effective way for improving the performance of lossy image compression," <i>IEEE Signal Processing Letters</i>, 2020.</font>
 
-1. <font size="3em"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," to appear in <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
+1. <font size="3em"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting,"  <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2019.</font>
 
 1. <font size="3em"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," <i>Signal Processing: Image Communication</i>, 2019.</font>
 
