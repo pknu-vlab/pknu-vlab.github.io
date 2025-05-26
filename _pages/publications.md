@@ -8,9 +8,17 @@ layout: post
 
 ## [Google Scholar](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)
 
+## Submitted
+-----------------
+1.  <font size="3em"> Se-Ho Lee, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2025 (In revision).
+
+1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," 2025 (Submitted).
+
+1.  <font size="3em"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and Se-Ho Lee, "Adaptive video demoiréing network with subtraction-guided alignment," 2025 (Submitted).
+
 ## Journal Articles
 -----------------
-1. <font size="3em"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, Se-Ho Lee and <b>Seung-Wook Kim</b>*, "Enhanced Blur-Robust Monocular Depth Estimation via Self-Supervised Learning," <i>Electronics Letters</i>, 2024. (*corresponding author)
+1. <font size="3em"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, Se-Ho Lee and <b>Seung-Wook Kim</b>*, "Enhanced Blur-Robust Monocular Depth Estimation via Self-Supervised Learning," <i>Electronics Letters</i>, 2024. (*Corresponding author)
 
 1. <font size="3em"> Se-Ho Lee and <b>Seung-Wook Kim*</b>, "DCPNet: Deformable Control Point Network for Image Enhancement," <i>Journal of Visual Communication and Image Representation</i>, 2024. (*Corresponding author)</font>
 
