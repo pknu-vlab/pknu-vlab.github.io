@@ -17,7 +17,7 @@ layout: post
 ## Conference Papers
 -----------------
 
-1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Hawaii, USA, 2025.
+1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Honolulu, USA, 2025.
 
 1. <font size="3em"> Seo-Won Ji*, Jeong-Min Lee*, <b>Seung-Wook Kim</b>*, Jun-Pyo Hong, Seung-Jin Baek, Seung-Won Jung, and Sung-Jea Ko, "XYDeblur: Divide and Conquer for Single Image Deblurring
 ," <i>CVPR 2022</i>, New Orleans, USA, 2022. (*Equal contribution)</font>
