@@ -115,6 +115,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Ga-Ryeong Kim (김가령)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:dbswl6071@naver.com">dbswl6071@naver.com</a></p>
+<p style="line-height: 1.5;"><a href="https://www.lignex1.com">LIG 넥스원</a></p>
 
 &nbsp;
 
@@ -129,7 +130,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Min-Ji Kim (김민지)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:kminzy23@kakao.com">kminzy23@kakao.com</a></p>
-<p style="line-height: 1.5;"><a href="mailto:kminzy23@kakao.com">부산 MBC </a></p>
+<p style="line-height: 1.5;"><a href="https://busanmbc.co.kr">부산 MBC</a></p>
 
 &nbsp;
 
@@ -144,6 +145,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
+<p style="line-height: 1.5;"><a href="https://unist-kor.unist.ac.kr">UNIST</a></p>
 
 &nbsp;
 
