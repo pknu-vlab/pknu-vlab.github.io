@@ -129,6 +129,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Min-Ji Kim (김민지)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:kminzy23@kakao.com">kminzy23@kakao.com</a></p>
+<p style="line-height: 1.5;"><a href="mailto:kminzy23@kakao.com">부산 MBC </a></p>
 
 &nbsp;
 
@@ -143,20 +144,6 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/swson.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Seung-Won Son (손승원)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:w3218822@naver.com">w3218822@naver.com</a></p>
 
 &nbsp;
 
