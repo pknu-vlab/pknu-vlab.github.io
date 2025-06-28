@@ -31,7 +31,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:qksksktjdduf@naver.com">qksksktjdduf@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: Deepfake defence</b></p>
+<p style="line-height: 1.5;"><b>Research Interest: Federated learning</b></p>
 
 &nbsp;
 
@@ -46,7 +46,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Ji-Ah Kim (김지아)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:whatime08@pukyong.ac.kr">whatime08@pukyong.ac.kr</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: Deepfake defence</b></p>
+<p style="line-height: 1.5;"><b>Research Interest: Federated learning</b></p>
 &nbsp;
 
 &nbsp;
@@ -56,19 +56,6 @@ layout: post
 ## Research Interns
 ------------
 
-
-<div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Ho-Ju Shin (신호주)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:gut1526@pukyong.ac.kr">gut1526@pukyong.ac.kr</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: TBD</b></p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sypark.jpeg" width="130" >
@@ -161,4 +148,17 @@ layout: post
 <p style="line-height: 1.5;"><b>Na-Young Gu (구나영)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:skdud11318@naver.com">skdud11318@naver.com</a></p>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:200px; float:left;">
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Ho-Ju Shin (신호주)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:gut1526@pukyong.ac.kr">gut1526@pukyong.ac.kr</a></p>
 
