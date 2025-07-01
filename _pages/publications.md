@@ -29,7 +29,7 @@ layout: post
 1. <font size="3em"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Kwang-Hyun Uhm, Hyong-Keun Kook, and Sung-Jea Ko, "Learning an object detector using zoomed object regions," <i>ICEIC 2019</i>, Auckland, New Zealand, 2019.</font> [[paper](https://ieeexplore.ieee.org/abstract/document/8706381)]
 
 1. <font size="3em"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Jee-Young Sun, Mun-Cheon Kang, and Sung-Jea Ko, "Parallel feature pyramid network for object
-detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font> [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html)]
+detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font> [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html)] [[code](https://github.com/chosj95/PFPNet.pytorch)]
 
 1. <font size="3em"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Jee-Young Sun, Kwang-Hyun Uhm, and Sung-Jea Ko, "Bi-Directional feature pyramid network for object detection," <i>ITC-CSCC 2018</i>, Bangkok, Thailand, 2018.</font>
 
@@ -113,7 +113,7 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 
 1. <font size="3em"> Ignatov et al., "AIM 2019 Challenge on RAW to RGB Mapping: Methods and Results," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font> [[paper](https://ieeexplore.ieee.org/abstract/document/9022218)]
 
-1. <font size="3em"> Kwang-Hyun Uhm, <b>Seung-Wook Kim</b>, Seo-Won Ji, Sung-Jin Cho, Jun-Pyo Hong, and Sung-Jea Ko, "W-Net: Two-Stage U-Net With Misaligned Data for Raw-to-RGB Mapping," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font> [[paper](https://ieeexplore.ieee.org/abstract/document/9022089)]
+1. <font size="3em"> Kwang-Hyun Uhm, <b>Seung-Wook Kim</b>, Seo-Won Ji, Sung-Jin Cho, Jun-Pyo Hong, and Sung-Jea Ko, "W-Net: Two-Stage U-Net With Misaligned Data for Raw-to-RGB Mapping," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font> [[paper](https://ieeexplore.ieee.org/abstract/document/9022089)] [[code](https://github.com/khuhm/W-Net)]
 
 1. <font size="3em"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font> [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Sun_Reverse_and_Boundary_Attention_Network_for_Road_Segmentation_ICCVW_2019_paper.html)]
 
