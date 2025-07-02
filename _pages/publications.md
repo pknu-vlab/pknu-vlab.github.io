@@ -15,7 +15,7 @@ layout: post
 ## Conference Papers
 -----------------
 
-1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Honolulu, USA, 2025. [[paper](https://arxiv.org/abs/2506.23516)] [[code](https://github.com/Seongyeol-kim/FedWSQ)]
+1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Honolulu, USA, 2025.</font> [[paper](https://arxiv.org/abs/2506.23516)] [[code](https://github.com/Seongyeol-kim/FedWSQ)]
 
 1. <font size="3em"> Hun Lee and <b>Seung-Wook Kim</b>*, "Decentralized and versatile edge encoding methods for task-oriented communication systems," <i>ICOIN 2024</i>, Ho Chi Minh City, Vietnam, 2024. (*Corresponding author)</font> [[paper](https://ieeexplore.ieee.org/abstract/document/10572144)]
 
@@ -52,7 +52,7 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 -----------------
 1.  <font size="3em"> Seung-Hun Ok, Young-Min Choi, <b>Seung-Wook Kim</b>* and Se-Ho Lee, "Adaptive video demoiréing network with subtraction-guided alignment," to appear in <i>Signal Processing Letters</i>, 2025. (*Corresponding author) 
 
-1. <font size="3em"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, Se-Ho Lee and <b>Seung-Wook Kim</b>*, "Enhanced Blur-Robust Monocular Depth Estimation via Self-Supervised Learning," <i>Electronics Letters</i>, 2024. (*Corresponding author) [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70098)]
+1. <font size="3em"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, Se-Ho Lee and <b>Seung-Wook Kim</b>*, "Enhanced Blur-Robust Monocular Depth Estimation via Self-Supervised Learning," <i>Electronics Letters</i>, 2024. (*Corresponding author)</font> [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70098)]
 
 1. <font size="3em"> Se-Ho Lee and <b>Seung-Wook Kim*</b>, "DCPNet: Deformable Control Point Network for Image Enhancement," <i>Journal of Visual Communication and Image Representation</i>, 2024. (*Corresponding author)</font> [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320324002645)]
 
