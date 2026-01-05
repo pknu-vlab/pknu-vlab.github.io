@@ -15,7 +15,7 @@ layout: post
 ## Conference Papers
 -----------------
 
-1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Honolulu, USA, 2025.</font> [[paper](https://arxiv.org/abs/2506.23516)] [[code](https://github.com/Seongyeol-kim/FedWSQ)]
+1.  <font size="3em"> <b>Seung-Wook Kim</b>*, Seongyeol Kim, Jiah Kim, Seowon Ji, and Se-Ho Lee, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," accepted in <i>ICCV 2025</i>, Honolulu, USA, 2025.</font> [[paper](https://arxiv.org/abs/2506.23516)] [[project page](https://iccv.thecvf.com/virtual/2025/poster/1371)][[code](https://github.com/Seongyeol-kim/FedWSQ)]
 
 1. <font size="3em"> Hun Lee and <b>Seung-Wook Kim</b>*, "Decentralized and versatile edge encoding methods for task-oriented communication systems," <i>ICOIN 2024</i>, Ho Chi Minh City, Vietnam, 2024. (*Corresponding author)</font> [[paper](https://ieeexplore.ieee.org/abstract/document/10572144)]
 
@@ -140,4 +140,5 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 1. <font size="3em"> 김준연, <b>김승욱</b>, 김효영, 박원재, 고성제, "ACF 기반 보행자 검출기 성능 향상을 위한 특징 결합 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
 
 1. <font size="3em"> 지서원, 강석재, <b>김승욱</b>, 김채성, 고성제, "손실된 동적 영역을 고려한 개선된 가중치 맵 기반의 다중 노출 영상 합성 방법," 대한전자공학회 하계학술대회 논문집, 2015.</font>
+
 
