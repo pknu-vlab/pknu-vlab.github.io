@@ -36,6 +36,8 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
 </div>
@@ -102,6 +104,8 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/mjkim.jpg" width="130" >
 </div>
@@ -113,12 +117,16 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/chsung.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Chi-Hun Sung (성치훈)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:sch804@pukyong.ac.kr">sch804@pukyong.ac.kr</a></p>
 <p style="line-height: 1.5;"><a href="https://unist-kor.unist.ac.kr">UNIST</a></p>
+
+&nbsp;
 
 &nbsp;
 
@@ -148,6 +156,7 @@ layout: post
 &nbsp;
 
 &nbsp;
+
 
 
 
