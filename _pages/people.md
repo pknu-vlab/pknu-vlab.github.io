@@ -26,12 +26,14 @@ layout: post
 ## Integrated M.S./B.S.
 ------------
 
+
+
 <div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sykim.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:qksksktjdduf@naver.com">qksksktjdduf@naver.com</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: Federated learning</b></p>
+<p style="line-height: 1.5;"><b>Ho-Ju Shin (신호주)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:qut1526@pukyong.ac.kr">gut1526@pukyong.ac.kr</a></p>
+<p style="line-height: 1.5;"><b>Research Interest: Federated learning & image deblurring</b></p>
 
 &nbsp;
 
@@ -46,7 +48,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Ji-Ah Kim (김지아)</b></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:whatime08@pukyong.ac.kr">whatime08@pukyong.ac.kr</a></p>
-<p style="line-height: 1.5;"><b>Research Interest: Federated learning</b></p>
+<p style="line-height: 1.5;"><b>Research Interest: Federated learning & image deblurring</b></p>
 &nbsp;
 
 &nbsp;
@@ -57,7 +59,7 @@ layout: post
 ------------
 
 
-<div style="width:150px; height:200px; float:left;">
+<!-- <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sypark.jpeg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seo-Yeon Park (박서연)</b></p>
@@ -92,7 +94,7 @@ layout: post
 
 &nbsp;
 
-&nbsp;
+&nbsp; -->
 
 ## Alumni
 ------------
@@ -157,8 +159,17 @@ layout: post
 &nbsp;
 
 <div style="width:150px; height:200px; float:left;">
-<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sykim.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Ho-Ju Shin (신호주)</b></p>
-<p style="line-height: 1.5;">E-mail: <a href="mailto:gut1526@pukyong.ac.kr">gut1526@pukyong.ac.kr</a></p>
+<p style="line-height: 1.5;"><b>Seong-Yeol Kim (김성열)</b></p>
+<p style="line-height: 1.5;">E-mail: <a href="mailto:qksksktjdduf@naver.com">qksksktjdduf@naver.com</a></p>
+<p style="line-height: 1.5;"><a href="https://www.lignex1.com">LIG 넥스원</a></p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
