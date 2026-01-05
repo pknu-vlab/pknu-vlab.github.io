@@ -36,9 +36,6 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/hjshin.jpg" width="130" >
 </div>
@@ -49,9 +46,6 @@ layout: post
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
 
 ## Research Interns
 ------------
@@ -108,9 +102,6 @@ layout: post
 
 &nbsp;
 
-&nbsp;
-
-
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/mjkim.jpg" width="130" >
 </div>
@@ -143,6 +134,8 @@ layout: post
 
 &nbsp;
 
+&nbsp;
+
 <div style="width:150px; height:200px; float:left;">
 <img src="https://raw.githubusercontent.com/pknu-vlab/pknu-vlab.github.io/main/images/sykim.jpg" width="130" >
 </div>
@@ -155,6 +148,7 @@ layout: post
 &nbsp;
 
 &nbsp;
+
 
 
 
