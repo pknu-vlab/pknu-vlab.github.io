@@ -10,7 +10,11 @@ layout: post
 
 ## Submitted
 -----------------
-1.  <font size="3em"> <b>Seung-Wook Kim</b>, Keunsoo Koh, and Se-Ho Lee, "A Lightweight Stabilization Method Using Weight Standardization for Efficient Federated Learning," to appear in <i>IEEE Transactions on Multimedia</i>, 2025.
+1.  <font size="3em"> <b>Seung-Wook Kim</b>, Keunsoo Koh, and Se-Ho Lee, "A lightweight stabilization method using weight standardization for efficient federated learning," 2025 (Submitted).</font>
+
+2.  <font size="3em"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and <b>Seung-Wook Kim</b>, "Reweighted mixed sample data augmentation for effective federated learning," 2025 (Submitted).</font>
+
+3.  <font size="3em"> Min Hyeok Bang*, Jun Hyeong Kim*, <b>Seung-Wook Kim</b>, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," 2025 (Submitted).</font>
 
 ## Conference Papers
 -----------------
@@ -140,6 +144,7 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 1. <font size="3em"> 김준연, <b>김승욱</b>, 김효영, 박원재, 고성제, "ACF 기반 보행자 검출기 성능 향상을 위한 특징 결합 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
 
 1. <font size="3em"> 지서원, 강석재, <b>김승욱</b>, 김채성, 고성제, "손실된 동적 영역을 고려한 개선된 가중치 맵 기반의 다중 노출 영상 합성 방법," 대한전자공학회 하계학술대회 논문집, 2015.</font>
+
 
 
 
