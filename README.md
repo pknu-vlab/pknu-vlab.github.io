@@ -11,9 +11,9 @@ permalink: /
 ## Latest News
 - Our project, "Development of a Multi-Institutional Endoscopic Digital Twin and Surgical Simulation World Model Platform Based on 4DGS and Federated Learning," has been selected for funding by the National Research Foundation of Korea (NRF).
 - Our project, "Intelligent Mobile Vision: Efficient Federated MoE with Device-Specific Expert Models and Semi-Supervised Learning," has been selected for funding by the National Research Foundation of Korea (NRF).
-- One paper has been accepted on quantized federated learning in [ICCV 2025](https://iccv.thecvf.com), one of the major conferences in computer vision.
-- Our team won 2nd place in the [2024 Samsung AI Challenge: Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description). Congratulations to **Ho-Ju, Ji-Ah, and Seong-Yeol**!
-- Our team won 3rd place in the [2024 ETRI Human Understanding AI Paper Challenge](https://aifactory.space/task/2790/overview). Congratulations to **Ho-Ju, Ji-Ah, and Seong-Yeol**!
+- One paper has been accepted on quantized federated learning in [ICCV 2025](https://iccv.thecvf.com).
+- Our team won 2nd place in the [2024 Samsung AI Challenge: Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description).
+- Our team won 3rd place in the [2024 ETRI Human Understanding AI Paper Challenge](https://aifactory.space/task/2790/overview).
 
 ## Research Interest
 
