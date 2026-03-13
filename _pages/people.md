@@ -23,7 +23,7 @@ layout: post
 
 &nbsp;
 
-## Integrated M.S./B.S.
+## M.S.
 ------------
 
 <div style="width:150px; height:200px; float:left;">
@@ -158,6 +158,7 @@ layout: post
 &nbsp;
 
 &nbsp;
+
 
 
 
