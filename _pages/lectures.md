@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lectures
+title: Lectures
 permalink: /lectures/
 description:
 nav: true
