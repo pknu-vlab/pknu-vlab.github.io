@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-We are looking for motivated students with strong interests in computer vision, deep learning.
+인공지능 기반의 컴퓨터 비전 연구에 관심 있는 학부/석사/박사 연구원을 모집합니다! ☺️
 
 ### Who we are looking for
 - Undergraduate / Graduate students
@@ -17,12 +17,10 @@ We are looking for motivated students with strong interests in computer vision, 
 ### Research Areas
 - Computer Vision
 - Deep Learning
-- Multimodal Learning
 
 ### How to apply
 Please send an email including:
-- CV
-- Transcript (optional)
+- Transcript
 - Brief statement of interest
 
 📧 **Email:** [swkim@pknu.ac.kr](swkim@pknu.ac.kr)
