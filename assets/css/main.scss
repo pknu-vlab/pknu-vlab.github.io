@@ -1,0 +1,127 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "tabs",
+  "typograms",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular",
+  "tabler-icons/tabler-icons.scss",
+  "tabler-icons/tabler-icons-filled.scss",
+  "tabler-icons/tabler-icons-outline.scss"
+;
+
+// custom style
+.site-title {
+  font-weight: 300 !important;
+  color: #9ca3af !important;
+}
+
+[data-theme="dark"] .site-title {
+  color: #e5e7eb !important;
+}
+
+.title-bold {
+  font-weight: 700;
+  color: #374151;
+}
+
+[data-theme="dark"] .title-bold {
+  color: #f9fafb;
+}
+
+.join-text {
+  font-size: 1.2rem;
+}
+
+.research-item img {
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+// people
+.person-row {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.person-photo img {
+  width: 150px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.person-meta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.person-meta h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.person-link,
+.person-department,
+.person-position,
+.person-email,
+.person-research {
+  margin: 0.3rem 0;
+  line-height: 1.5;
+}
+
+//publications
+.badge-conf {
+  background-color: #2563eb !important;
+  color: white !important;
+}
+
+.badge-journal {
+  background-color: #059669 !important;
+  color: white !important;
+}
+
+abbr.badge a {
+  color: white !important;
+  text-decoration: none;
+}
+
+//lectures
+.lecture-item {
+  display: flex;
+  margin-bottom: 18px;
+}
+
+.lecture-year {
+  width: 60px;
+  font-weight: 600;
+  color: #6b7280;
+}
+
+.lecture-title {
+  font-weight: 500;
+}
+
+.lecture-meta {
+  font-size: 14px;
+  color: #6b7280;
+}

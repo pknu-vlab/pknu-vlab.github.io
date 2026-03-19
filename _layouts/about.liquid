@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <div class="header-bar">
+      {% if site.title == 'blank' %}
+        <h1>
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        </h1>
+        {{ site.last_name }}
+      {% else %}
+        <!-- <h1 class="site-title-bold">{{ site.title }}</h1> -->
+        <h1 class="site-title">
+          <span class="title-bold">Vision</span> Lab.
+        </h1>
+      {% endif %}
+      <h2>{{ page.subtitle }}</h2>
+    </div>
+  </header>
+
+  <article>
+    {% if page.profile %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1
+      rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 95vw"{% endcapture %}
+          {%
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            cache_bust=true
+          %}
+        {% endif %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
+
+    <!-- News -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2 style="margin-top: 1rem">
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+    <!-- Research interests -->
+    <div class="research-interests">
+      <h2 style="margin-top: 1rem">Research Interests</h2>
+
+      <div class="research-item">
+        <h4 style="margin-top: 1rem">🌐 Federated learning</h4>
+        <p>
+          We explore federated learning frameworks for privacy-preserving and
+          distributed deep learning across multiple clients.
+        </p>
+        <p align="center"><img src="{{ '/assets/img/federated_learning.png' | relative_url }}" width="80%" alt="Federated Learning"></p>
+      </div>
+
+      <div class="research-item">
+        <h4 style="margin-top: 1rem">🤳 Image restoration</h4>
+        <p>
+          We study image restoration techniques, including deblurring and denoising for high-quality visual reconstruction.
+        </p>
+        <p align="center"><img src="{{ '/assets/img/restoration.png' | relative_url }}" width="80%" alt="Image Restoration"></p>
+      </div>
+
+      <div class="research-item">
+        <h4 style="margin-top: 1rem">📷 Object detection</h4>
+        <p>
+          We study object detection methods for real-world scenarios and 
+          focus on lightweight architectures and efficient techniques for edge-device deployment.
+        </p>
+        <p align="center"><img src="{{ '/assets/img/object_detection.png' | relative_url }}" width="80%" alt="Object Detection"></p>
+      </div>
+    </div>
+
+  </article>
+</div>

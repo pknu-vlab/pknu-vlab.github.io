@@ -1,0 +1,40 @@
+<div class="col">
+  <div class="person-row">
+    {% if project.img %}
+      <div class="person-photo">
+        <img src="{{ project.img | relative_url }}" alt="{{ project.title }}">
+      </div>
+    {% endif %}
+
+    <div class="person-meta">
+      <h4>{{ project.title }}</h4>
+
+      {% if project.position %}
+        <p class="person-position"> <strong>{{ project.position }}</strong> </p>
+      {% endif %}
+
+      {% if project.department %}
+        <p class="person-department">{{ project.department }}</p>
+      {% endif %}
+
+      {% if project.cv %}
+        <p class="person-link">
+          <a href="{{ project.cv | relative_url }}" target="_blank">CV</a>
+        </p>
+      {% endif %}
+
+      {% if project.research %}
+        <p class="person-research">
+          <strong>Research interests:</strong> {{ project.research }}
+        </p>
+      {% endif %}
+
+      {% if project.email %}
+        <p class="person-email">
+          <strong>Email:</strong>
+          <a href="mailto:{{ project.email }}">{{ project.email }}</a>
+        </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
