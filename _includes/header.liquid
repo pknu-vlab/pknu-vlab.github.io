@@ -16,7 +16,10 @@
             {{- site.last_name -}}
           {% endif %}
         {% else %}
-          {{- site.title -}}
+          <!-- {{- site.title -}} -->
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="logo" class="site-logo">
+          </a>
         {% endif %}
       </a>
       <!-- Navbar Toggle -->
