@@ -13,11 +13,11 @@ nav_order: 4
 
 <!-- {% include bib_search.liquid %}
 
-<div class="publications">
+<!-- <div class="publications">
 
 {% bibliography %}
 
-</div> -->
+</div> --> -->
 
 ## [Google Scholar](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)
 
