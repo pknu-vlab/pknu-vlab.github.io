@@ -231,6 +231,10 @@ display_categories: ["conferences", "talks"] # these categories will be displaye
 # -----------------------------------------------------------------------------
 
 scholar:
+  # author
+  first_name: ["Seung-Wook"]
+  last_name: ["Kim"]
+
   style: acm-sigchi-proceedings
   locale: en
 
