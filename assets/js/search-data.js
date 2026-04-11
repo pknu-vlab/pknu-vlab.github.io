@@ -62,28 +62,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/2026-03-25-seminar/";
           
         },
-      },{id: "post-office-ambience",
-        
-          title: "Office Ambience",
-        
-        description: "Tune in to the Office Ambience playlist",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/office-ambience/";
-          
-        },
-      },{id: "post-intersensory-data-representations-of-a-black-hole",
-        
-          title: 'Intersensory data representations of a black hole <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Interesting reading about Dr. Kyle Keane&#39;s research",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://quest.mit.edu/news/intersensory-data-representations-black-hole", "_blank");
-          
-        },
       },{id: "events-the-summer-festival-2024-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
           title: 'The Summer Festival 2024 is happening on July 15, 2025, at Beach Park,...',
           description: "",
