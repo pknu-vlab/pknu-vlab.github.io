@@ -51,15 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
+        },{id: "post-pruning-and-sparsity",
         
-          title: "",
+          title: "Pruning and Sparsity",
         
-        description: "",
+        description: "A seminar on pruning and sparsity techniques, covering model compression strategies and their impact on efficiency and performance in TinyML.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-03-25-seminar/";
+            window.location.href = "/blog/2026/seminar/";
           
         },
       },{id: "events-the-summer-festival-2024-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
