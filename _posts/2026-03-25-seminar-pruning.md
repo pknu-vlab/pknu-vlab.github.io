@@ -2,8 +2,8 @@
 layout: post
 title: Pruning and Sparsity
 date: 2026-03-25 18:00:00 +0100
-description: A seminar on pruning and sparsity techniques, covering model compression strategies and their impact on efficiency and performance in TinyML.
-tags: seminar slides
+description: A seminar on pruning and sparsity techniques.
+tags: seminar slides pruning sparsity
 thumbnail:
 ---
 
