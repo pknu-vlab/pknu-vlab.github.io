@@ -44,7 +44,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/join-us/";
           },
-        },{id: "post-office-ambience",
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-03-25-seminar/";
+          
+        },
+      },{id: "post-office-ambience",
         
           title: "Office Ambience",
         
