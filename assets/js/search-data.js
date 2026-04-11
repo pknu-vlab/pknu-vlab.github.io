@@ -45,21 +45,32 @@ ninja.data = [{
             window.location.href = "/join-us/";
           },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-pruning-and-sparsity",
+        },{id: "post-neural-architecture-search-nas",
         
-          title: "Pruning and Sparsity",
+          title: "Neural Architecture Search (NAS)",
         
-        description: "A seminar on pruning and sparsity techniques, covering model compression strategies and their impact on efficiency and performance in TinyML.",
+        description: "A seminar on Neural Architecture Search (NAS).",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/seminar/";
+            window.location.href = "/blog/2026/seminar-nas/";
+          
+        },
+      },{id: "post-pruning-and-sparsity",
+        
+          title: "Pruning and Sparsity",
+        
+        description: "A seminar on pruning and sparsity techniques.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seminar-pruning/";
           
         },
       },{id: "events-the-summer-festival-2024-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
