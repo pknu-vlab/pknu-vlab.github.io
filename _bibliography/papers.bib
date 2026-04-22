@@ -316,7 +316,7 @@ journal = {Electronics Letters},
 year = {2024},
 abstract = {This letter presents a novel self-supervised learning strategy to improve the robustness of a monocular depth estimation (MDE) network against motion blur. Motion blur, a common problem in real-world applications like autonomous driving and scene reconstruction, often hinders accurate depth perception. Conventional MDE methods are effective under controlled conditions but struggle to generalise their performance to blurred images. To address this problem, we generate blur-synthesised data to train a robust MDE model without the need for preprocessing, such as deblurring. By incorporating self-distillation techniques and using blur-synthesised data, the depth estimation accuracy for blurred images is significantly enhanced without additional computational or memory overhead. Extensive experimental results demonstrate the effectiveness of the proposed method, enhancing existing MDE models to accurately estimate depth information across various blur conditions.},
 pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70098},
-abbr = {Electronics Letters},
+abbr = {EL},
 bibtex_show={false},
 selected = {true}
 }
@@ -444,11 +444,11 @@ selected = {true}
 @article{lossy,
 author = {Yoon-Jae Yeo and Yong-Goo Shin and Min-Cheol Sagong and Seung-Wook Kim and Sung-Jea Ko},
 title = {Simple yet effective way for improving the performance of lossy image compression},
-journal = {IEEE Signal Processing},
+journal = {IEEE Signal Processing Letters},
 year = {2020},
 abstract = {Lossy image compression methods with deep neural network (DNN) include a quantization process between encoder and decoder networks as an essential part to increase the compression rate. However, the quantization operation impedes the flow of gradient and often disturbs the optimal learning of the encoder, which results in distortion in the reconstructed images. To alleviate this problem, this paper presents a simple yet effective way that enhances the performance of lossy image compression without imposing training overhead or modifying the original network architectures. In the proposed method, we utilize an auxiliary branch called a shortcut which directly connects the encoder and decoder. Since the shortcut does not include the quantization process, it supports the optimal learning of the encoder by flowing the accurate gradient. Furthermore, to assist the decoder which should handle additional feature maps obtained via the shortcut, we also propose a residual refinement unit (RRU) following the quantizer. The experimental results show that the image compression network trained with the proposed method remarkably improves the performance in terms of peak signal-to-noise ratio (PSNR), structural similarity (SSIM), and multi-scale structural similarity (MS-SSIM).},
 pdf = {https://ieeexplore.ieee.org/abstract/document/9044407},
-abbr = {Signal Processing},
+abbr = {SPL},
 bibtex_show={false},
 selected = {true}
 }
@@ -484,7 +484,7 @@ journal = {Electronics Letters},
 year = {2019},
 abstract = {Clothing parsing is a special type of semantic segmentation in which each pixel is assigned with clothing labels. Unlike general scene semantic segmentation, stylish match (e.g. skirts + blouse, jeans + T-shirt) is an important cue for recognising fine-grained categories in clothing parsing. In this Letter, the authors propose a context-aware outfit encoder (COE), as a side branch, that drives the convolutional neural network to take the stylish match into account for clothing parsing. The proposed COE provides information on matching clothes that can be utilised to improve the prediction accuracy of the base network significantly. Experimental results show that fully convolutional network and MobileNet with the COE improve the mean intersection of the union of those without the COE by 2.5 and 2.8%, respectively, on CFPD dataset.},
 pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/el.2019.1213},
-abbr = {Electronics Letters},
+abbr = {EL},
 bibtex_show={false},
 selected = {true}
 }
@@ -496,7 +496,7 @@ journal = {Electronics Letters},
 year = {2018},
 abstract = {The main concern of user-guided segmentation (UGS) is to achieve high segmentation accuracy with minimal user interaction. A novel convolutional neural network (CNN)-based UGS method is proposed, which employs a single click as the user interaction. In the proposed method, the input image in the Cartesian coordinate system is first converted into the polar transformed image with the user-guided point (UGP) as the origin of the polar coordinate system. The transformed image not only effectively delivers the UGP to the CNN, but also enables a single-scale convolution kernel to act as a multi-scale kernel, whose receptive field in the Cartesian coordinate system is altered based on the UGP without any extra parameters. In addition, a feature selection module (FSM) is introduced and utilised to additionally extract radial and angular features from the polar transformed image. Experimental results demonstrate that the proposed CNN using the polar transformed image improves the segmentation accuracy (mean intersection over union) by 3.69% on PASCAL VOC 2012 dataset compared with the CNN using the Cartesian coordinate image. The FSM achieves additional performance improvement of 1.32%. Moreover, the proposed method outperforms the conventional non-CNN-based UGS methods by 12.61% on average.},
 pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/el.2018.5051},
-abbr = {Electronics Letters},
+abbr = {EL},
 bibtex_show={false},
 selected = {true}
 }
@@ -568,7 +568,7 @@ journal = {Electronics Letters},
 year = {2017},
 abstract = {A novel illumination normalisation (IN) method using a convolutional neural network (CNN) is proposed. The proposed network is composed of the local pattern extraction (LPE) and illumination elimination (IE) layers. The LPE layers model the relationships between the pixels in each local region in order to handle various types of local shadow and shading in the face image. Based on the commonly used assumption about the illumination field, the IE layers generate illumination-insensitive ratio images by calculating the ratio between the output pairs produced from the LPE layers. The final feature map obtained by combining the ratio images can possess an improved discriminative ability for face recognition (FR). For training the proposed network, the results produced by the Weber fraction-based IN methods as ground truths are utilised. The experimental results demonstrate that the proposed network performs better in terms of FR accuracy compared with the conventional non-CNN-based method and it can be combined with any CNN-based face classifier.},
 pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/el.2017.0023},
-abbr = {Electronics Letters},
+abbr = {EL},
 bibtex_show={false},
 selected = {true}
 }
@@ -616,7 +616,7 @@ journal = {Electronics Letters},
 year = {2016},
 abstract = {Histogram equalisation (HE) methods using the 2D histogram (2DH) have achieved a great success in contrast enhancement. The 2DH is constructed by using the occurrence of a local pixel pair (LPP) consisting of each pixel and its surrounding pixels. However, the 2DH-based methods often produce over-stretching artefacts because the low-textured regions primarily existing in the image induce a spike at some LPPs in the 2DH. To solve this problem, the 2DH is constructed by employing two properties of the human visual system (HVS) as follows: the HVS has the better brightness discrimination in the dark region according to Weber's law, and the HVS is less sensitive to visual artefacts in the higher-textured regions. To create a spike-free 2DH, a weighting function reflecting these two properties of the HVS is designed for the LPP. As compared with the popular 2DH-based methods, the HE with the proposed 2DH can effectively enhance the image contrast while achieving the best perceptual similarity score between the input and output images.},
 pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/el.2015.3956},
-abbr = {Electronics Letters},
+abbr = {EL},
 bibtex_show={false},
 selected = {true}
 }
