@@ -98,11 +98,21 @@ ninja.data = [{
           description: "",
           section: "People",handler: () => {
               window.location.href = "/people/garyeong/";
+            },},{id: "people-gyeong-min-yu-유경민",
+          title: 'Gyeong-Min Yu (유경민)',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/gyeoung-min/";
             },},{id: "people-hoju-shin-신호주",
           title: 'Hoju Shin (신호주)',
           description: "",
           section: "People",handler: () => {
               window.location.href = "/people/hoju/";
+            },},{id: "people-ji-young-kim-김지영",
+          title: 'Ji-young Kim (김지영)',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/ji-young/";
             },},{id: "people-ji-ah-kim-김지아",
           title: 'Ji-Ah Kim (김지아)',
           description: "",
