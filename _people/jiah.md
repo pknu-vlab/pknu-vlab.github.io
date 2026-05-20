@@ -6,5 +6,5 @@ email: whatime08@pukyong.ac.kr
 research: Federated learning, image deblurring
 img: assets/img/people/jakim.jpg
 importance: 2
-category: students
+category: Master Students
 ---

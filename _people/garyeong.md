@@ -7,5 +7,5 @@ department: <a href="https://www.lignex1.com/">LIG넥스원</a>
 research: 
 img: assets/img/people/grkim.jpg
 importance: 5
-category: alumni
+category: Alumni
 ---

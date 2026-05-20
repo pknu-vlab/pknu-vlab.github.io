@@ -10,5 +10,5 @@ department: <a href="https://ee.pknu.ac.kr/ee/1">Division of Electronic & Commun
 research: 
 img: assets/img/people/swkim.png
 importance: 1
-category: professor
+category: Professor
 ---

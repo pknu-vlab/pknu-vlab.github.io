@@ -7,5 +7,5 @@ department: <a href="https://busanmbc.co.kr/">부산 MBC</a>
 research: 
 img: assets/img/people/mjkim.jpg
 importance: 6
-category: alumni
+category: Alumni
 ---
