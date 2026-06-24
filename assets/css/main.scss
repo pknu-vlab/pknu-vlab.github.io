@@ -48,8 +48,30 @@ $max-content-width: {{ site.max_width }};
 }
 
 .site-logo {
-  height: 48px;
+  height: 40px;
   width: auto;
+}
+
+.logo-light-mode {
+  display: inline-block;
+}
+
+.logo-dark-mode {
+  display: none;
+}
+
+html[data-theme="dark"] .logo-light-mode,
+body[data-theme="dark"] .logo-light-mode,
+html.dark .logo-light-mode,
+body.dark .logo-light-mode {
+  display: none;
+}
+
+html[data-theme="dark"] .logo-dark-mode,
+body[data-theme="dark"] .logo-dark-mode,
+html.dark .logo-dark-mode,
+body.dark .logo-dark-mode {
+  display: inline-block;
 }
 
 .research-item img {
