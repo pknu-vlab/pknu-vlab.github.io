@@ -130,3 +130,33 @@ abbr.badge a {
   font-size: 14px;
   color: #6b7280;
 }
+
+.paper-image-link {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.paper-image-link img {
+  display: block;
+}
+
+.paper-title {
+  position: absolute;
+  left: 50%;
+  bottom: 1rem;
+  transform: translateX(-50%);
+  width: 80%;
+  padding: 0.5rem 0.8rem;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  font-size: 0.9rem;
+  border-radius: 0.4rem;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+}
+
+.paper-image-link:hover .paper-title {
+  opacity: 1;
+}
