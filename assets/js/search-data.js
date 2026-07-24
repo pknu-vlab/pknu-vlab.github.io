@@ -91,7 +91,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-a-benchmark-for-heterogeneous-stereo-deblurring-with-physically-and-epipolar-constrained-cross-attention-and-geometry-aware-style-transfer-in-3d-gaussian-splatting-have-been-accepted-to-eccv-2026",
           title: 'Our papers, “A Benchmark for Heterogeneous Stereo Deblurring with Physically- and Epipolar-constrained Cross...',
           description: "",
-          section: "News",},{id: "people-chi-hun-sung-성치훈",
+          section: "News",},{id: "people-seo-yeon-jung-정서연",
+          title: 'Seo-yeon Jung (정서연)',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/Seo-yeon/";
+            },},{id: "people-chi-hun-sung-성치훈",
           title: 'Chi-Hun Sung (성치훈)',
           description: "",
           section: "People",handler: () => {
