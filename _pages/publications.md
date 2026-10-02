@@ -15,6 +15,10 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Submitted</h2>
+
+{% bibliography --query @unpublished %}
+
+{% bibliography --query @*[type!=unpublished] %}
 
 </div>
