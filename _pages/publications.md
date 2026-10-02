@@ -13,10 +13,10 @@ nav_order: 4
 
 <h2>Submitted</h2>
 
-{% bibliography --query @unpublished --group_by none %}
+{% bibliography --query @unpublished %}
 
-<h2>Published</h2>
-
-{% bibliography --query @article,@inproceedings --group_by year --group_order descending %}
+{% bibliography --query @article --group_by year --group_order descending %}
+{% bibliography --query @inproceedings --group_by year --group_order descending %}
+{% bibliography --query @conference --group_by year --group_order descending %}
 
 </div>
