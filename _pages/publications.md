@@ -7,18 +7,16 @@ nav: true
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
 <h2>Submitted</h2>
 
-{% bibliography --query @unpublished %}
+{% bibliography --query @unpublished --group_by none %}
 
-{% bibliography --query @*[type!=unpublished] %}
+<h2>Published</h2>
+
+{% bibliography --query @article,@inproceedings --group_by year --group_order descending %}
 
 </div>
