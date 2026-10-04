@@ -11,12 +11,6 @@ nav_order: 4
 
 <div class="publications">
 
-<h2>Submitted</h2>
-
-{% bibliography --query @unpublished %}
-
-{% bibliography --query @article --group_by year --group_order descending %}
-{% bibliography --query @inproceedings --group_by year --group_order descending %}
-{% bibliography --query @conference --group_by year --group_order descending %}
+{% bibliography %}
 
 </div>
