@@ -5,7 +5,7 @@ title: People
 description: 
 nav: true
 nav_order: 3
-display_categories: [Professor, Master Students, Undergraduate Researchers, Alumni]
+display_categories: [Professor, PhD Students, Master Students, Undergraduate Researchers, Alumni]
 horizontal: true
 ---
 
